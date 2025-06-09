@@ -50,5 +50,5 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
       
-      - name: aaa
-        run: curl -X POST 
+      - name: deploy
+        run: curl -X POST "11f6d3c3daf821b6449fb4e58759f315"
